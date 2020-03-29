@@ -1,3 +1,7 @@
 # Blog
 
-Relate records of daily development
+Daily record of related issues
+
+## Java
+
+[development environment](./Java/devEnvironment.md)
